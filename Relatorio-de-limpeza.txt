@@ -1,0 +1,12 @@
+1. cabeçalho foi revisado
+2. foi criado um filtro por condição na coluna B (order date) para separar as células em branco
+3. 30 linhas em branco foram excluídas
+4. filtro da coluna B foi removido
+5. mesmo processo foi aplicado na coluna H
+6. 1 linha foi excluídas
+7. dados foram transpostos para a coluna I
+8. colunas A até H foram excluídas
+9. espaços em branco foram eliminados a partir de >Dados>limpeza de dados>cortar espaços em branco
+10. a extensão ChangeCase foi baixada
+11. Todas as strings a partir da coluna B foram mudadas para caixa alta com >ChangeCase>All uppercase
+12. Formatação>limpar formatação em toda a planilha
