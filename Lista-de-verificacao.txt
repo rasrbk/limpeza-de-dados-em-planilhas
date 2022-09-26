@@ -1,0 +1,29 @@
+Etapa 1: crie sua lista de verificação
+  Roteiro de coisas para observar em um conjunto de dados:
+  * Tamanho do conjunto de dados
+  * Número de categorias ou rótulos
+  * Dados ausentes
+  * Dados sem formatação
+  * Os diferentes tipos de dados
+
+Etapa 2: liste seus métodos de limpeza preferidos
+  * Renomear título
+  * Editar espaçamentos das colunas
+  * Colocar atributos em negrito
+  * Fixar linha de atributos
+  * Procurar espaços vazios usando
+  * Avaliar as sugestões de limpeza do próprio programa
+  * Contar número de linhas COUTIF para ver se bate com as linhas da lateral
+  * Usar opção de eliminar espaços vazios
+  * Usar formatação condicional para identificar células vazias
+  * Usar 'organizar' em ordem alfabética (ou outra conveniente) para a chave primária
+  * Observar strings e colocar em formatação padrão
+  * Observar números, datas e outros, e formatar o que for necessário
+  * Usar remover cópias para procurar linhas duplicadas
+  * Usar filtro para selecionar o que precisa ser apagado
+
+Etapa 3: Lembretes e orientações sobre limpezas de dados
+  * "Nem todos os dados são iguais, portanto não os trate todos da mesma maneira".
+  * "Esteja preparado para que as coisas não corram como planejado. Tenha um plano de reserva".
+  * "Evite aplicar soluções complicadas a problemas simples".
+  * "Busque deixar a tabela o mais simples possível para a análise mais eficiente"
